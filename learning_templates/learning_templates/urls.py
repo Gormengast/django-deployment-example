@@ -22,6 +22,3 @@ urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^basic_app/', include('basic_app.urls'))
 ]
-
-
-this is something im adding
